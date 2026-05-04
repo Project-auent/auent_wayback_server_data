@@ -54,6 +54,18 @@
     "EndTime": null
   },
   {
+    "Key": "splitTestHardOverrides",
+    "Value": "Curated_Rooms_2020_08_06=On;PlayMenuRRUI_2021_01_11=On;PlayMenuRRUI_HotRoomsCarousel_2021_02_09=On;PlayMenuRRUI_CarouselOrdering_2021_02_09=PlayMenuCarouselOrdering_1;CreationCommands_2021_02_16=On;RecRoomPlus_DormMirrorButton_2021_03_09=ButtonOn;CurrentContestWinnersCarouselVisibility_2021_04_15=On;MutualFriends_2021_04_22=On;PlayMenuRRUI_DefaultTab_2021_05_13=Highlight;DefaultNewPlayersToPlayMenu_2021_05_24=On;ShowNewRRPlusIcon_2021_06_01=NewIcon;ParallelNetworkingInitialRoomLoad_2021_06_28=ParallelLoad;ShowNewRRPlusBenefitsPage_2021_06_14=NewPage;WatchStoreHomepageLayout_2021_06_14=OldStoreLayout;NotificationPermissionsExplanationText_2021_06_25=Control;",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
+    "Key": "splitTestSoftOverrides",
+    "Value": "",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
     "Key": "UGC.Persistence.Enabled",
     "Value": "1",
     "StartTime": null,
@@ -133,7 +145,7 @@
   },
   {
     "Key": "forceRegistration",
-    "Value": "0",
+    "Value": "1",
     "StartTime": null,
     "EndTime": null
   },
