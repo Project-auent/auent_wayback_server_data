@@ -66,20 +66,26 @@
     "EndTime": null
   },
   {
+    "Key": "splitTestsAvailable",
+    "Value": "RoomRecommendations_2020_05_06=On,Off;Curated_Rooms_2020_08_06=Off,On;RecNetImageCacheRefCount_2020_09_18=On,Off;GottaGoFastNUX_2020_09_04=Off,On;Curated_Rooms_Tab_Placement_2020_09_22=First,Second;PlayMenuRRUI_2021_01_11=Off,On;PlayMenuRRUI_HotRoomsCarousel_2021_02_09=Off,On;PlayMenuRRUI_CarouselOrdering_2021_02_09=PlayMenuCarouselOrdering_1,PlayMenuCarouselOrdering_2,PlayMenuCarouselOrdering_3;CreationCommands_2021_02_16=Off,On;RecRoomPlus_DormMirrorButton_2021_03_09=ButtonOn,ButtonOff;CurrentContestWinnersCarouselVisibility_2021_04_15=Off,On;MutualFriends_2021_04_22=Off,On;ProfileOnClick_2021_04_30=Off,On;PlayMenuRRUI_DefaultTab_2021_05_13=Highlight,RRO,Hot;DefaultNewPlayersToPlayMenu_2021_05_24=Off,On;ShowNewRRPlusIcon_2021_06_01=OldIcon,NewIcon;ShowNewRRPlusBenefitsPage_2021_06_14=OldPage,NewPage;WatchStoreHomepageLayout_2021_06_14=OldStoreLayout,NewStoreLayout;NotificationPermissionsExplanationText_2021_06_25=Control,SpecificValueText;ParallelNetworkingInitialRoomLoad_2021_06_28=SequentialLoad,ParallelLoad;UseSets_2021_08_06=IgnoreSets,UseSets;PlayMenuRRUI_TopCreatorsCarousel_2021_09_01=Off,On;FriendImportLogin_2021_09_23=Off,On;Purchase_Campaigns_AB_2021_09_13=Purchase_Campaign_AB_A,Purchase_Campaign_AB_B;Purchase_Campaigns_ABCD_2021_09_13=Purchase_Campaign_ABCD_A,Purchase_Campaign_ABCD_B,Purchase_Campaign_ABCD_C,Purchase_Campaign_ABCD_D;RoomSimilarities_2021_10_29=On,Off;PlayMenuBanner_2021_11_01=Off,On;PlayMenuCarouselOrdering_2021_11_01=PlayMenuCarouselOrdering_1,PlayMenuCarouselOrdering_2,PlayMenuCarouselOrdering_3;RudderStackAnalyticsDestinations_2022_02_10=Disabled,RudderStackOnly,Both;ObjectModel_EnableForRoom_2022_07_01=Disallowed,Allowed;",
+    "StartTime": null,
+    "EndTime": null
+  },
+  {
     "Key": "UGC.Persistence.Enabled",
     "Value": "1",
     "StartTime": null,
     "EndTime": null
   },
   {
-    "Key": "splitTestHardOverrides",
-    "Value": "1",
+    "Key": "UGC.LoadingScreenProgressBar",
+    "Value": "true",
     "StartTime": null,
     "EndTime": null
   },
   {
-    "Key": "splitTestSegmentProbabilities",
-    "Value": "1",
+    "Key": "UGC.DetailedRoomLoadLogsForDevs",
+    "Value": "true",
     "StartTime": null,
     "EndTime": null
   },
